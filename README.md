@@ -70,23 +70,6 @@
 
 ---
 
-## 🎯 No que estou focado agora
-
-```typescript
-const pedro = {
-  trabalho: "Sistema de gestão laboratorial multi-módulo",
-  foco: ["Geração automatizada de relatórios .docx", "Módulo Redes Móveis"],
-  principios: [
-    "Tipagem estrita, sempre",
-    "Arquitetura em camadas (controller → service → repository)",
-    "Planejar antes de codar",
-    "Zero dependência desnecessária",
-  ],
-} as const;
-```
-
----
-
 <div align="center">
 
 ### 🐍 Contribuições
