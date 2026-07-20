@@ -56,8 +56,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=PedroModerna123&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroModerna123&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="100%" />
