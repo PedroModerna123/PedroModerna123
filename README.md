@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre mim
 
-- 🏢 Desenvolvedor FullStack no **Instituto Moderna Tecnologia** A MAIOR DO BRASIL 
+- 🏢 Desenvolvedor FullStack no **Instituto Moderna Tecnologia**
 - 🔬 Trabalho com **sistemas de gestão laboratorial**, automação de relatórios técnicos (`.docx`) e workflows de ensaios
 - 📐 Fã de **arquitetura em camadas**, tipagem estrita e código pronto para produção
 - 🌱 Sempre estudando: padrões de projeto, DX e ferramentas de produtividade com IA
@@ -56,15 +56,11 @@
 
 <div align="center">
 
-<!-- ⚠️ Troque SEU_USUARIO pelo seu username do GitHub nas 3 linhas abaixo -->
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+<img src="https://streak-stats.demolab.com/?user=PedroModerna123&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroModerna123&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="100%" />
 
 </div>
 
@@ -74,13 +70,12 @@
 
 ### 🐍 Contribuições
 
-<!-- Opcional: cobra comendo os commits (veja passo a passo) -->
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PedroModerna123/PedroModerna123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
 💙 *"Código bom é aquele que o próximo dev entende sem precisar te chamar."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=2F81F7&label=Visitas)
+![Visitor Count](https://komarev.com/ghpvc/?username=PedroModerna123&style=for-the-badge&color=2F81F7&label=Visitas)
 
 </div>
